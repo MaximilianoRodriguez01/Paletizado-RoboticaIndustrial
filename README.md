@@ -2,5 +2,7 @@
 Simulación de un paletizado mediante un IRB140 de ABB
 
 
-https://github.com/user-attachments/assets/4dbaa211-ab1d-444b-b1c5-78702d09fe38
+
+
+https://github.com/user-attachments/assets/82d47a9f-c629-4b8c-8293-b4741926509e
 
